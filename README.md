@@ -39,14 +39,6 @@
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viniciusacostaa&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viniciusacostaa&theme=dracula" />
 
   <br><br>
-
-  <p align="center">
-    <img height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viniciusacostaa&theme=dracula" />
-    <img height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viniciusacostaa&theme=dracula" />
-  </p>
-
-</div>

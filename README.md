@@ -11,7 +11,7 @@
 
 <!-- SUBTÍTULO COM ANIMAÇÃO SUAVE -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2000&pause=100000&color=4B0082&vCenter=true&repeat=false&cursor=false&width=420&height=30&lines=Linguagens+que+estou+aprendendo:" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2000&pause=100000&color=4B0082&vCenter=true&repeat=false&cursor=false&width=420&height=30&lines=O+que+estou+aprendendo:" />
 </p>
 
 <div><br>
